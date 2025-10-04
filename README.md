@@ -1,6 +1,6 @@
 # Easy Pay SSL
 
-A complete Flutter payment integration application with SSLCOMMERZ payment gateway, featuring a Flutter frontend and Node.js Express backend.
+This application integrates the **SSLCOMMERZ payment gateway** using a **Node.js backend**.
 
 ## Features
 
